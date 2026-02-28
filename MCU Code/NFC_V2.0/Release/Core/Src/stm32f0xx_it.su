@@ -1,0 +1,6 @@
+stm32f0xx_it.c:35:6:NMI_Handler	0	static
+stm32f0xx_it.c:48:6:HardFault_Handler	0	static
+stm32f0xx_it.c:63:6:SVC_Handler	0	static
+stm32f0xx_it.c:76:6:PendSV_Handler	0	static
+stm32f0xx_it.c:89:6:SysTick_Handler	8	static
+stm32f0xx_it.c:110:6:EXTI0_1_IRQHandler	16	static

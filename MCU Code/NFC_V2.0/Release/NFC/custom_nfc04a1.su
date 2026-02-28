@@ -1,0 +1,11 @@
+custom_nfc04a1.c:207:13:BSP_GPO_Callback	0	static
+custom_nfc04a1.c:68:9:CUSTOM_GPO_Init	40	static
+custom_nfc04a1.c:95:9:CUSTOM_GPO_DeInit	8	static
+custom_nfc04a1.c:112:9:CUSTOM_GPO_ReadPin	8	static
+custom_nfc04a1.c:122:9:CUSTOM_LPD_Init	40	static
+custom_nfc04a1.c:143:9:CUSTOM_LPD_DeInit	8	static
+custom_nfc04a1.c:159:9:CUSTOM_LPD_ReadPin	8	static
+custom_nfc04a1.c:169:9:CUSTOM_LPD_On	8	static
+custom_nfc04a1.c:182:9:CUSTOM_LPD_Off	8	static
+custom_nfc04a1.c:195:9:CUSTOM_LPD_Toggle	8	static
+custom_nfc04a1.c:215:6:BSP_GPO_IRQHandler	8	static
